@@ -1,0 +1,21 @@
+TN:
+SF:/home/oncemore/Blockchain Work/MuCitadel/ipfs_nft/contracts/UniqueAsset.sol
+FN:12,constructor
+FN:13,awardItem
+FNF:2
+FNH:2
+FNDA:3,constructor
+FNDA:1,awardItem
+DA:14,1
+DA:15,1
+DA:16,1
+DA:17,1
+DA:18,1
+DA:20,1
+LF:6
+LH:6
+BRDA:14,1,0,1
+BRDA:14,1,1,0
+BRF:2
+BRH:1
+end_of_record
